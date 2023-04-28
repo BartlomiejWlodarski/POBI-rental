@@ -1,0 +1,14 @@
+//
+// Created by student on 31.05.2022.
+//
+
+#ifndef INTRODUCTIONPROJECT_CLIENTMANAGER_H
+#define INTRODUCTIONPROJECT_CLIENTMANAGER_H
+
+
+class ClientManager {
+
+};
+
+
+#endif //INTRODUCTIONPROJECT_CLIENTMANAGER_H
